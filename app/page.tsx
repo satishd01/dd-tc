@@ -63,11 +63,14 @@ export default function Home() {
             </ul>
           </li>
           <li>
-            <strong>9. Liability Disclaimer:</strong> DearDabba is a marketplace and does not prepare or sell food. The
+            <strong>9. Location Data:</strong> We may collect and process your device's location data to provide location-based services (e.g., finding nearby stores). This data is collected only with your permission and may be used to improve app features or provide personalized content. You can disable location access at any time via your device settings.
+          </li>
+          <li>
+            <strong>10. Liability Disclaimer:</strong> DearDabba is a marketplace and does not prepare or sell food. The
             responsibility for food quality, safety, and compliance lies with the respective vendor.
           </li>
           <li>
-            <strong>10. Governing Law:</strong> These Terms shall be governed by the laws of India. All disputes shall be subject
+            <strong>11. Governing Law:</strong> These Terms shall be governed by the laws of India. All disputes shall be subject
             to the jurisdiction of courts in Thane, Maharashtra.
           </li>
         </ol>
